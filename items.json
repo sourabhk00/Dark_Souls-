@@ -1,0 +1,354 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Remedy (Sorcery)",
+      "description": "Sorcery of Yulva, a Sealer of New Londo. Reduces poison/bleed.",
+      "lore": "Yulva abandoned her duty to heal Blighttown’s suffering.",
+      "function": "Unique healing sorcery; cures poison/bleed."
+    },
+    {
+      "id": 2,
+      "name": "Artorias’ Greatsword",
+      "description": "Greatsword of the Abysswalker. Scales with Faith/Int.",
+      "lore": "Artorias fell to the Abyss, but his soul still resists.",
+      "function": "Deals extra damage to Abyss creatures."
+    },
+    {
+      "id": 3,
+      "name": "Fire Keeper Soul",
+      "description": "Soul gnawed by infinite humanity.",
+      "lore": "A Fire Keeper who fell into the Abyss.",
+      "function": "Upgrades Estus Flask or gives souls."
+    },
+    {
+      "id": 4,
+      "name": "Big Hat Logan",
+      "description": "Sorcerer who sought Seath’s knowledge.",
+      "lore": "His obsession drove him mad, mirroring Seath.",
+      "function": "Sells powerful sorceries; goes Hollow."
+    },
+    {
+      "id": 5,
+      "name": "Seath the Scaleless",
+      "description": "Traitor dragon granted dukedom by Gwyn.",
+      "lore": "His envy of immortality led to madness.",
+      "function": "Boss guarding the Duke’s Archives."
+    },
+    {
+      "id": 6,
+      "name": "Crestfallen Warrior",
+      "description": "A broken Undead at Firelink Shrine.",
+      "lore": "Represents the fate of those who give up.",
+      "function": "Early dialogue guide; later Hollows."
+    },
+    {
+      "id": 7,
+      "name": "New Londo Ruins",
+      "description": "Drowned city that sealed the Abyss.",
+      "lore": "Shows the gods’ extreme measures.",
+      "function": "Leads to Four Kings & Abyss."
+    },
+    {
+      "id": 8,
+      "name": "Chaos Servant Covenant",
+      "description": "Servants of the Fair Lady.",
+      "lore": "Born from love, not ambition.",
+      "function": "Unlocks Chaos pyromancies."
+    },
+    {
+      "id": 9,
+      "name": "Anor Londo",
+      "description": "Last stronghold of the gods (or an illusion).",
+      "lore": "Gwyndolin maintains its false light.",
+      "function": "Central hub; home of Ornstein & Smough."
+    },
+    {
+      "id": 10,
+      "name": "Bloodbite Ring",
+      "description": "Ring that reduces bleed buildup.",
+      "lore": "Gods feared what they created.",
+      "function": "Bleed resistance for PvP/PvE."
+    },
+    {
+      "id": 11,
+      "name": "Priscilla’s Dagger",
+      "description": "A curved dagger causing bleed.",
+      "lore": "Priscilla was exiled for being half-dragon.",
+      "function": "Fast weapon with bleed effect."
+    },
+    {
+      "id": 12,
+      "name": "Quelana of Izalith",
+      "description": "Witch who teaches advanced pyromancy.",
+      "lore": "Survivor of the Chaos Flame disaster.",
+      "function": "Pyromancy trainer for high-level spells."
+    },
+    {
+      "id": 13,
+      "name": "Darkmoon Blade Covenant",
+      "description": "Gwyndolin’s covenant punishing sinners.",
+      "lore": "Enforces the gods’ laws through vengeance.",
+      "function": "PvP invasions; grants Darkmoon Blade miracle."
+    },
+    {
+      "id": 14,
+      "name": "Gravelord Sword",
+      "description": "Nito’s toxic-inflicting greatsword.",
+      "lore": "Embodies death and decay.",
+      "function": "Causes toxic buildup; early-game powerhouse."
+    },
+    {
+      "id": 15,
+      "name": "Manus, Father of the Abyss",
+      "description": "Primeval man whose humanity went wild.",
+      "lore": "His rage birthed the Abyss.",
+      "function": "DLC boss; key to Abyss lore."
+    },
+    {
+      "id": 16,
+      "name": "Dusk of Oolacile",
+      "description": "Princess kidnapped by Manus.",
+      "lore": "Innocence lost to the Abyss.",
+      "function": "Teaches Oolacile sorceries."
+    },
+    {
+      "id": 17,
+      "name": "Solaire of Astora",
+      "description": "Warrior seeking his own sun.",
+      "lore": "Tragic or triumphant fate based on player choice.",
+      "function": "Co-op summon; iconic character."
+    },
+    {
+      "id": 18,
+      "name": "Velka’s Talisman",
+      "description": "Talisman that casts miracles and sorceries.",
+      "lore": "Velka opposes the gods’ justice.",
+      "function": "Hybrid casting tool for Int/Faith builds."
+    },
+    {
+      "id": 19,
+      "name": "Painted World of Ariamis",
+      "description": "Prison for outcasts.",
+      "lore": "Hides secrets the gods feared.",
+      "function": "Optional area with unique enemies."
+    },
+    {
+      "id": 20,
+      "name": "Gwyn, Lord of Cinder",
+      "description": "Final boss; sacrificed himself.",
+      "lore": "His linking of the Flame prolonged suffering.",
+      "function": "Player chooses to rekindle or end the Age of Fire."
+    },
+    {
+      "id": 21,
+      "name": "Havel's Ring",
+      "description": "Ring named after Havel the Rock, Gwyn's old battlefield compatriot. Increases maximum equip load.",
+      "lore": "Havel's men wore this to carry heavier armor, reflecting their resistance to magic and sorcery.",
+      "function": "Boosts equip load by 50%, essential for heavy armor builds."
+    },
+    {
+      "id": 22,
+      "name": "Crest Shield",
+      "description": "Enchanted blue shield of a high-ranked Astoran knight. Greatly reduces magic damage.",
+      "lore": "Symbolizes Astora's conflict with sorcerers; used by knights who distrusted magic.",
+      "function": "High magic resistance (80% reduction)."
+    },
+    {
+      "id": 23,
+      "name": "Laurentius of the Great Swamp",
+      "description": "Pyromancer from the Great Swamp. Teaches basic pyromancies.",
+      "lore": "Represents the humble origins of pyromancy; his fate shows the dangers of unchecked ambition.",
+      "function": "Pyromancy trainer in Firelink Shrine."
+    },
+    {
+      "id": 24,
+      "name": "Sunlight Medal",
+      "description": "Medal engraved with the Sun, awarded for co-op victories.",
+      "lore": "Symbol of Solaire's Warriors of Sunlight covenant; represents jolly cooperation.",
+      "function": "Covenant item for ranking up in Warriors of Sunlight."
+    },
+    {
+      "id": 25,
+      "name": "Iron Tarkus",
+      "description": "Legendary knight of Berenike. Wields a greatsword and tower shield.",
+      "lore": "His corpse in Anor Londo suggests even the mightiest can fall to traps.",
+      "function": "Summon for Iron Golem boss fight."
+    },
+    {
+      "id": 26,
+      "name": "Witch Beatrice",
+      "description": "Sorceress who aids against certain bosses.",
+      "lore": "Her set implies ties to Oolacile; her death is unexplained.",
+      "function": "Summon for Moonlight Butterfly and Four Kings."
+    },
+    {
+      "id": 27,
+      "name": "The Abyss",
+      "description": "Formless void born of humanity's darkness.",
+      "lore": "Created by Manus; corrupts all it touches (Artorias, New Londo).",
+      "function": "Game mechanic: instant death if not wearing Artorias Ring."
+    },
+    {
+      "id": 28,
+      "name": "The Fair Lady",
+      "description": "Daughter of the Witch of Izalith. Absorbs Blighttown's poison.",
+      "lore": "Sacrificed herself to ease others' suffering; worshipped by Chaos Servants.",
+      "function": "Covenant leader for Chaos Servants."
+    },
+    {
+      "id": 29,
+      "name": "Sif, the Great Grey Wolf",
+      "description": "Artorias' loyal wolf companion. Guards his grave.",
+      "lore": "Fights to prevent others from sharing Artorias' fate in the Abyss.",
+      "function": "Mandatory boss in Darkroot Garden."
+    },
+    {
+      "id": 30,
+      "name": "Oolacile Township",
+      "description": "Ruined city consumed by the Abyss.",
+      "lore": "Its scholars awakened Manus, causing the Abyss crisis.",
+      "function": "DLC area with lore-critical events."
+    },
+    {
+      "id": 31,
+      "name": "Undead Burg",
+      "description": "Hollow-infested ruins near Firelink.",
+      "lore": "Shows the Undead Curse's widespread impact.",
+      "function": "Early-game area teaching core mechanics."
+    },
+    {
+      "id": 32,
+      "name": "Lautrec of Carim",
+      "description": "Golden-armored knight who kills Fire Keepers.",
+      "lore": "Embodies humanity's selfishness; his armor hints at Carim's cruel faith.",
+      "function": "NPC invader; drops Favor and Protection Ring."
+    },
+    {
+      "id": 33,
+      "name": "Chaos Flame",
+      "description": "Corrupted flame that birthed demons.",
+      "lore": "Result of the Witch of Izalith's failed attempt to recreate the First Flame.",
+      "function": "Source of Chaos weapons and pyromancies."
+    },
+    {
+      "id": 34,
+      "name": "Moonlight Greatsword",
+      "description": "Seath's crystalline greatsword. Scales with Intelligence.",
+      "lore": "FromSoftware staple; tied to Seath's obsession with magic.",
+      "function": "Obtained by cutting Seath's tail."
+    },
+    {
+      "id": 35,
+      "name": "Gravelord Nito",
+      "description": "First of the Dead. Lord of miasma and skeletons.",
+      "lore": "His soul was one of the original Lord Souls from the First Flame.",
+      "function": "Boss guarding the Rite of Kindling."
+    },
+    {
+      "id": 36,
+      "name": "The Kiln of the First Flame",
+      "description": "Gwyn's final resting place.",
+      "lore": "Where the Age of Fire began and ends.",
+      "function": "Final area before the Gwyn fight."
+    },
+    {
+      "id": 37,
+      "name": "Dark Sign",
+      "description": "Brand of the Undead. Prevents true death.",
+      "lore": "A curse or blessing? Tied to humanity's true nature.",
+      "function": "Mechanic: respawn at bonfires after death."
+    },
+    {
+      "id": 38,
+      "name": "Frampt",
+      "description": "Primordial serpent urging the player to link the Fire.",
+      "lore": "Possibly manipulative; serves Gwyn's agenda.",
+      "function": "Guides players to place the Lordvessel."
+    },
+    {
+      "id": 39,
+      "name": "Kaathe",
+      "description": "Primordial serpent advocating for the Age of Dark.",
+      "lore": "Reveals the truth about the Dark Soul and Undead Curse.",
+      "function": "Unlocks Darkwraith Covenant."
+    },
+    {
+      "id": 40,
+      "name": "Darkwraith Covenant",
+      "description": "Covenant that steals humanity via invasions.",
+      "lore": "Serve the Abyss; oppose the gods.",
+      "function": "PvP-focused; grants Dark Hand and Red Eye Orb."
+    },
+    {
+      "id": 41,
+      "name": "Vagrant",
+      "description": "Rare enemy spawned from lost items in other worlds.",
+      "lore": "Manifestation of other players' failures.",
+      "function": "Drops rare loot (e.g., Humanity)."
+    },
+    {
+      "id": 42,
+      "name": "Ingward",
+      "description": "Last surviving Sealer of New Londo.",
+      "lore": "Guards the key to the Abyss; knows the truth about the Flood.",
+      "function": "Sells curse-resistant items."
+    },
+    {
+      "id": 43,
+      "name": "Demon Firesage",
+      "description": "Corrupted witch-turned-demon.",
+      "lore": "One of Izalith's original witches, now a mindless beast.",
+      "function": "Optional boss in Demon Ruins."
+    },
+    {
+      "id": 44,
+      "name": "Shiva of the East",
+      "description": "Eastern merchant seeking rare weapons.",
+      "lore": "His betrayal mirrors the world's moral decay.",
+      "function": "Sells katanas and unique gear."
+    },
+    {
+      "id": 45,
+      "name": "Symbol of Avarice",
+      "description": "Mimic helmet that boosts souls but drains HP.",
+      "lore": "Literal embodiment of greed.",
+      "function": "Increases soul gain by 50%."
+    },
+    {
+      "id": 46,
+      "name": "Crossbreed Priscilla",
+      "description": "Half-dragon outcast in the Painted World.",
+      "lore": "Feared for her Lifehunt ability; exiled by the gods.",
+      "function": "Optional boss with unique dialogue."
+    },
+    {
+      "id": 47,
+      "name": "Gwyndolin",
+      "description": "Illusion-weaving son of Gwyn.",
+      "lore": "Maintains Anor Londo's false sunlight; enforces the gods' will.",
+      "function": "Optional boss; leader of Darkmoon Blades."
+    },
+    {
+      "id": 48,
+      "name": "Dreg Heap",
+      "description": "Convergence of collapsed worlds (DS3 reference).",
+      "lore": "Shows the end result of endless Fire-linking cycles.",
+      "function": "N/A (lore connection only)."
+    },
+    {
+      "id": 49,
+      "name": "Humanity",
+      "description": "Fragment of the Dark Soul. Heals and kindles bonfires.",
+      "lore": "The true nature of humans, suppressed by Gwyn.",
+      "function": "Restores HP, reverses Hollowing, enables multiplayer."
+    },
+    {
+      "id": 50,
+      "name": "The Chosen Undead",
+      "description": "Player character bearing the Darksign.",
+      "lore": "Decides the fate of the Age of Fire.",
+      "function": "Variable endings: Link the Fire or Dark Lord."
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "items": [
+    {
+      "name": "Remedy",
+      "type": "Sorcery",
+      "description": "Healing sorcery of Yulva, Sealer of New Londo. Used to reduce poison and bleeding."
+    },
+    {
+      "name": "Artorias' Greatsword",
+      "type": "Weapon (Greatsword)",
+      "description": "Abysswalker's cursed blade. Scales with Strength, Dexterity, Faith and Intelligence."
+    },
+    {
+      "name": "Fire Keeper Soul",
+      "type": "Consumable",
+      "description": "Gnawed by infinite humanity. Upgrades Estus Flask or provides souls."
+    },
+    {
+      "name": "Big Hat Logan",
+      "type": "NPC (Sorcerer)",
+      "description": "Former Vinheim scholar who sought Seath's knowledge. Sells advanced sorceries."
+    },
+    {
+      "name": "Seath the Scaleless",
+      "type": "Boss",
+      "description": "Treacherous dragon granted dukedom by Gwyn. Drops the Bequeathed Lord Soul Shard."
+    },
+    {
+      "name": "Crestfallen Warrior",
+      "type": "NPC",
+      "description": "Defeated Undead at Firelink Shrine. Provides cynical commentary on the quest."
+    },
+    {
+      "name": "New Londo Ruins",
+      "type": "Location",
+      "description": "Flooded city that sacrificed its people to contain the Abyss."
+    },
+    {
+      "name": "Chaos Servant Covenant",
+      "type": "Covenant",
+      "description": "Servants of the Fair Lady. Offers Chaos pyromancies at high ranks."
+    },
+    {
+      "name": "Anor Londo",
+      "type": "Location",
+      "description": "City of the gods bathed in eternal sunlight (illusion). Home of Gwynevere and Gwyndolin."
+    },
+    {
+      "name": "Bloodbite Ring",
+      "type": "Ring",
+      "description": "Reduces bleed buildup. One of the protective rings granted by the gods."
+    },
+    {
+      "name": "Priscilla's Dagger",
+      "type": "Weapon (Dagger)",
+      "description": "Curved blade of the Painted World's crossbreed. Inflicts bleed damage."
+    },
+    {
+      "name": "Quelana of Izalith",
+      "type": "NPC (Pyromancer)",
+      "description": "Surviving daughter of the Witch of Izalith. Teaches advanced pyromancies."
+    },
+    {
+      "name": "Darkmoon Blade Covenant",
+      "type": "Covenant",
+      "description": "Gwyndolin's blades who punish the guilty. Grants the Darkmoon Blade miracle."
+    },
+    {
+      "name": "Gravelord Sword",
+      "type": "Weapon (Greatsword)",
+      "description": "Nito's toxic-infested blade. Causes toxic buildup on enemies."
+    },
+    {
+      "name": "Manus, Father of the Abyss",
+      "type": "Boss",
+      "description": "Primeval human whose wild humanity created the Abyss. Drops Humanity sprites."
+    },
+    {
+      "name": "Dusk of Oolacile",
+      "type": "NPC",
+      "description": "Rescued princess who teaches Oolacile's lost sorceries."
+    },
+    {
+      "name": "Solaire of Astora",
+      "type": "NPC",
+      "description": "Warrior of Sunlight seeking his own sun. Available for co-op summoning."
+    },
+    {
+      "name": "Velka's Talisman",
+      "type": "Talisman",
+      "description": "Allows casting of both miracles and sorceries. Associated with the goddess of sin."
+    },
+    {
+      "name": "Painted World of Ariamis",
+      "type": "Location",
+      "description": "Prison for forbidden things. Contains Crossbreed Priscilla and occult weapons."
+    },
+    {
+      "name": "Gwyn, Lord of Cinder",
+      "type": "Boss",
+      "description": "Final boss who linked the First Flame. His soul can rekindle the Age of Fire."
+    },
+    {
+      "name": "Havel's Ring",
+      "type": "Ring",
+      "description": "Increases maximum equip load by 50%. Worn by Havel's warriors to carry heavy armor."
+    },
+    {
+      "name": "Crest Shield",
+      "type": "Shield",
+      "description": "Magic-resistant shield from Astora. Blocks 80% of magic damage."
+    },
+    {
+      "name": "Laurentius of the Great Swamp",
+      "type": "NPC (Pyromancer)",
+      "description": "Pyromancy trainer in Firelink Shrine. Goes hollow if sent to Blighttown unprepared."
+    },
+    {
+      "name": "Sunlight Medal",
+      "type": "Covenant Item",
+      "description": "Proof of co-op victories. Used to rank up in Warriors of Sunlight covenant."
+    },
+    {
+      "name": "Iron Tarkus",
+      "type": "NPC (Summon)",
+      "description": "Legendary knight summonable for Iron Golem fight. Wields greatsword and tower shield."
+    },
+    {
+      "name": "Witch Beatrice",
+      "type": "NPC (Summon)",
+      "description": "Sorceress summonable for Moonlight Butterfly and Four Kings fights."
+    },
+    {
+      "name": "The Abyss",
+      "type": "Location/Mechanic",
+      "description": "Formless void that causes instant death without Covenant of Artorias ring."
+    },
+    {
+      "name": "The Fair Lady",
+      "type": "NPC (Covenant)",
+      "description": "Quelaag's sister who absorbs poison. Leader of Chaos Servant covenant."
+    },
+    {
+      "name": "Sif, the Great Grey Wolf",
+      "type": "Boss",
+      "description": "Artorias' loyal wolf companion. Guards his grave in Darkroot Garden."
+    },
+    {
+      "name": "Oolacile Township",
+      "type": "Location",
+      "description": "Ruined city consumed by the Abyss. Setting for Artorias of the Abyss DLC."
+    },
+    {
+      "name": "Undead Burg",
+      "type": "Location",
+      "description": "Early game area overrun with hollows. Teaches core game mechanics."
+    },
+    {
+      "name": "Lautrec of Carim",
+      "type": "NPC",
+      "description": "Golden-armored knight who kills Fire Keepers. Drops Favor and Protection ring."
+    },
+    {
+      "name": "Chaos Flame",
+      "type": "Lore Concept",
+      "description": "Corrupted flame that created demons. Source of Chaos weapons and pyromancies."
+    },
+    {
+      "name": "Moonlight Greatsword",
+      "type": "Weapon (Greatsword)",
+      "description": "Seath's crystalline blade. Scales with Intelligence. Obtained by cutting his tail."
+    },
+    {
+      "name": "Gravelord Nito",
+      "type": "Boss",
+      "description": "First of the Dead. Drops the Lord Soul needed to open Kiln of the First Flame."
+    },
+    {
+      "name": "The Kiln of the First Flame",
+      "type": "Location",
+      "description": "Final area where Gwyn waits. Where the Age of Fire began."
+    },
+    {
+      "name": "Dark Sign",
+      "type": "Mechanic",
+      "description": "Brand of the Undead. Causes respawning at bonfires after death."
+    },
+    {
+      "name": "Frampt",
+      "type": "NPC (Primordial Serpent)",
+      "description": "Guides the Chosen Undead to link the Fire. Accepts souls for items."
+    },
+    {
+      "name": "Kaathe",
+      "type": "NPC (Primordial Serpent)",
+      "description": "Reveals truth about Dark Lord ending. Leader of Darkwraith covenant."
+    },
+    {
+      "name": "Darkwraith Covenant",
+      "type": "Covenant",
+      "description": "Invade other worlds to steal humanity. Grants Dark Hand and Red Eye Orb."
+    },
+    {
+      "name": "Vagrant",
+      "type": "Enemy",
+      "description": "Rare creatures that spawn from lost items in other players' worlds."
+    },
+    {
+      "name": "Ingward",
+      "type": "NPC",
+      "description": "Last Sealer of New Londo. Sells curse-resistant items and spells."
+    },
+    {
+      "name": "Demon Firesage",
+      "type": "Boss",
+      "description": "Corrupted witch-turned-demon. Optional boss in Demon Ruins."
+    },
+    {
+      "name": "Shiva of the East",
+      "type": "NPC",
+      "description": "Eastern merchant who betrays the player. Sells katanas and unique weapons."
+    },
+    {
+      "name": "Symbol of Avarice",
+      "type": "Helmet",
+      "description": "Mimic head that boosts soul gain by 50% but drains HP."
+    },
+    {
+      "name": "Crossbreed Priscilla",
+      "type": "Boss",
+      "description": "Half-dragon resident of Painted World. Wields Lifehunt scythe."
+    },
+    {
+      "name": "Gwyndolin",
+      "type": "Boss",
+      "description": "Illusion-weaving son of Gwyn. Leader of Darkmoon Blade covenant."
+    },
+    {
+      "name": "Dreg Heap",
+      "type": "Lore Concept (DS3)",
+      "description": "Collapsed timelines and kingdoms. Shows the end result of fire-linking cycles."
+    },
+    {
+      "name": "Humanity",
+      "type": "Item",
+      "description": "Fragment of Dark Soul. Reverses hollowing, kindles bonfires, enables multiplayer."
+    },
+    {
+      "name": "The Chosen Undead",
+      "type": "Player Character",
+      "description": "Bearer of the Darksign. Decides the fate of the Age of Fire."
+    }
+  ]
+}

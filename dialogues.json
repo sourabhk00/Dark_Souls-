@@ -1,0 +1,230 @@
+{
+  "dialogues": [
+    {
+      "speaker": "Yulva (implied)",
+      "line": "The Sealers' duty ends where suffering begins. I choose the poison I can cure over the darkness I cannot.",
+      "context": "Remedy sorcery hints at her abandonment of New Londo to heal Blighttown's suffering."
+    },
+    {
+      "speaker": "Artorias (corrupted)",
+      "line": "*Growls and snarls*",
+      "context": "His only 'dialogue' is through combat; his sword tells his story."
+    },
+    {
+      "speaker": "Fire Keeper (corrupted)",
+      "line": "...",
+      "context": "Gnawed by humanity, she is silent—her soul screams instead."
+    },
+    {
+      "speaker": "Big Hat Logan",
+      "line": "Knowledge is power, but madness follows...",
+      "context": "Spoken after freeing him from Sen's Fortress, foreshadowing his fate."
+    },
+    {
+      "speaker": "Seath the Scaleless",
+      "line": "*Incoherent screeching*",
+      "context": "His madness leaves him incapable of speech; crystals 'speak' for him."
+    },
+    {
+      "speaker": "Crestfallen Warrior",
+      "line": "Don't you dare go Hollow.",
+      "context": "Warning to the player about losing purpose."
+    },
+    {
+      "speaker": "Ingward",
+      "line": "The Abyss may yet be evaded...",
+      "context": "Spoken from New Londo's rooftops, clinging to hope."
+    },
+    {
+      "speaker": "The Fair Lady",
+      "line": "*Faint, pained whispers*",
+      "context": "Eingyi translates: 'She thanks you for your humanity.'"
+    },
+    {
+      "speaker": "Sif",
+      "line": "*Howls mournfully*",
+      "context": "If met in the DLC first, recognizes the player and hesitates."
+    },
+    {
+      "speaker": "Dusk of Oolacile",
+      "line": "Artorias... he saved me...",
+      "context": "Misremembers the player's actions (originally Artorias' role)."
+    },
+    {
+      "speaker": "Solaire of Astora",
+      "line": "Praise the Sun!",
+      "context": "Iconic greeting; symbolizes perseverance."
+    },
+    {
+      "speaker": "Velka (through items)",
+      "line": "[No direct dialogue]",
+      "context": "Her talisman's description implies rebellion against the gods."
+    },
+    {
+      "speaker": "Priscilla",
+      "line": "Thou must return whence thou camest.",
+      "context": "Offers mercy if the player leaves the Painted World."
+    },
+    {
+      "speaker": "Quelana of Izalith",
+      "line": "Mother... what have you done...",
+      "context": "Laments the Witch of Izalith's transformation."
+    },
+    {
+      "speaker": "Darkmoon Knightess",
+      "line": "The gods have forsaken this city.",
+      "context": "Hints at Anor Londo's illusion when the firekeeper is killed."
+    },
+    {
+      "speaker": "Gravelord Nito",
+      "line": "*Deathly moans*",
+      "context": "His 'voice' is the rattling of bones and miasma."
+    },
+    {
+      "speaker": "Manus, Father of the Abyss",
+      "line": "*Roars in primordial rage*",
+      "context": "His wild humanity 'speaks' through the Abyss."
+    },
+    {
+      "speaker": "Gwyn, Lord of Cinder",
+      "line": "*Silent, aggressive piano chords*",
+      "context": "His fight has no dialogue—only desperation in his attacks."
+    },
+    {
+      "speaker": "Frampt",
+      "line": "I am Kingseeker Frampt, close friend of Lord Gwyn!",
+      "context": "First meeting; his tone suggests deception."
+    },
+    {
+      "speaker": "Kaathe",
+      "line": "The Dark Lord... that is thy true shape.",
+      "context": "Reveals the player's potential to usurp the Age of Fire."
+    },
+    {
+      "speaker": "Havel the Rock",
+      "line": "*Guttural roar*",
+      "context": "Found trapped in a tower, wielding his iconic shield—his rage implies betrayal by the gods."
+    },
+    {
+      "speaker": "Oscar of Astora",
+      "line": "Thou who art Undead, art chosen...",
+      "context": "First NPC to speak; delivers the game's core prophecy before dying."
+    },
+    {
+      "speaker": "Laurentius of the Great Swamp",
+      "line": "Don't you dare go Hollow on me.",
+      "context": "Friendly warning if sent to Blighttown without proper pyromancy."
+    },
+    {
+      "speaker": "Solaire of Astora",
+      "line": "If only I could be so grossly incandescent!",
+      "context": "Famous praise of the Sun; shows his unwavering idealism."
+    },
+    {
+      "speaker": "Iron Tarkus",
+      "line": "[Silent]",
+      "context": "His strength speaks through his armor crashing against the Iron Golem."
+    },
+    {
+      "speaker": "Witch Beatrice",
+      "line": "*Soft chanting*",
+      "context": "Her summon sign hums with Oolacile sorceries—no direct dialogue."
+    },
+    {
+      "speaker": "Darkstalker Kaathe",
+      "line": "The Dark Soul is thine heritage.",
+      "context": "Reveals humanity's true nature when encountered in the Abyss."
+    },
+    {
+      "speaker": "The Fair Lady",
+      "line": "*Coughs weakly*",
+      "context": "Eingyi translates: 'She accepts your offering, kind Undead.'"
+    },
+    {
+      "speaker": "Alvina of the Darkroot Wood",
+      "line": "Thou shalt not pass!",
+      "context": "Forest Hunter covenant leader threatens trespassers."
+    },
+    {
+      "speaker": "Shiva of the East",
+      "line": "I seek the strongest weapons...",
+      "context": "Hints at his greed before betraying the player for their gear."
+    },
+    {
+      "speaker": "Patches",
+      "line": "Well, look who we have here!",
+      "context": "Classic trap dialogue before kicking the player off ledges."
+    },
+    {
+      "speaker": "Gwynevere (Illusion)",
+      "line": "Hast thou the strength... to link the Fire?",
+      "context": "Gwyndolin's fabricated goddess nudges players toward Gwyn's agenda."
+    },
+    {
+      "speaker": "Dark Sun Gwyndolin",
+      "line": "Thou shalt perish in the twilight of Anor Londo.",
+      "context": "Spoken during the boss fight; rejects those who see through the illusion."
+    },
+    {
+      "speaker": "Mimic (Symbol of Avarice)",
+      "line": "*Mouth opens with a creak*",
+      "context": "Its 'dialogue' is the sound of its teeth snapping shut."
+    },
+    {
+      "speaker": "Crossbreed Priscilla",
+      "line": "This land is peaceful, its inhabitants kind...",
+      "context": "Ironic, given the Painted World's horrors. Offers mercy."
+    },
+    {
+      "speaker": "Gravelord Nito",
+      "line": "*Bones rattle*",
+      "context": "His 'voice' is the sound of death itself—no words needed."
+    },
+    {
+      "speaker": "Frampt",
+      "line": "Thou must succeed Lord Gwyn!",
+      "context": "Urges the player to link the Fire, ignoring the cost."
+    },
+    {
+      "speaker": "Undead Merchant (Male)",
+      "line": "What do you want, hm?",
+      "context": "Grumpy but harmless; sells moss for Blighttown."
+    },
+    {
+      "speaker": "Undead Merchant (Female)",
+      "line": "Heh heh heh...",
+      "context": "Creepy laugh when selling the Uchigatana."
+    },
+    {
+      "speaker": "Vamos the Blacksmith",
+      "line": "Tch, another one...",
+      "context": "Skeptical of Undead, but forges Chaos weapons."
+    },
+    {
+      "speaker": "Gough",
+      "line": "Hah hah! Good, good.",
+      "context": "Blind giant archer in Oolacile; helps against Kalameet."
+    },
+    {
+      "speaker": "Elizabeth (Mushroom)",
+      "line": "*Cheerful giggle*",
+      "context": "Oddly wholesome merchant in Oolacile's sanctuary."
+    },
+    {
+      "speaker": "Marvelous Chester",
+      "line": "Something amiss? Heh heh...",
+      "context": "Bloodborne-esque hunter; implies time is convoluted."
+    },
+    {
+      "speaker": "Hawkeye Gough",
+      "line": "I've seen your kind, time and time again...",
+      "context": "Hints at the cyclical nature of the Undead curse."
+    },
+    {
+      "speaker": "Chosen Undead",
+      "line": "[Silent protagonist]",
+      "context": "Actions (linking the Fire/walking away) are their 'dialogue.'"
+    }
+  ]
+}
+  
