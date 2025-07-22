@@ -1,0 +1,41 @@
+# Core Python libraries for data science and web scraping
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+tqdm
+
+# NLP libraries
+spacy
+nltk
+
+# Graph analysis and visualization
+networkx
+matplotlib
+
+# Concurrency and dashboard (optional for web dashboard)
+concurrent.futures
+
+# Pickle (standard library, not needed in requirements)
+# json (standard library, not needed in requirements)
+
+# LangChain and LLM integration
+langchain
+openai
+
+# For Excel export
+openpyxl
+
+# For typing and data modeling
+pydantic
+
+# Optional: Flask/Dash for dashboard (if using graph_dashboard.py)
+dash
+flask
+
+# Optional: For Neo4j/Cypher integration
+neo4j
+
+# Any other dependencies
+functools32   # For Python <3.2, but not needed for Python 3+; remove if using Python 3+
